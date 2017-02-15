@@ -1,6 +1,6 @@
 using Toybox.Application as App;
 
-class CoolWatchfaceApp extends App.AppBase {
+class WhiteBlueWatchfaceApp extends App.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -16,7 +16,7 @@ class CoolWatchfaceApp extends App.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new CoolWatchfaceView() ];
+        return [ new WhiteBlueWatchfaceView() ];
     }
 
 }

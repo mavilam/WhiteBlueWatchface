@@ -4,7 +4,7 @@ using Toybox.System as Sys;
 using Toybox.Lang as Lang;
 using Toybox.Time.Gregorian as Greg;
 
-class CoolWatchfaceView extends Ui.WatchFace {
+class WhiteBlueWatchfaceView extends Ui.WatchFace {
 
 	//integer values for colors
 	var white = 16777215;

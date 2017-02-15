@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
 <pcToLineNum>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="16" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="17" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="22" pc="268435479" symbol="onLayout"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="23" pc="268435483" symbol="onLayout"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="29" pc="268435521" symbol="onShow"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="33" pc="268435526" symbol="checkLessThan10"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="35" pc="268435530" symbol="checkLessThan10"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="36" pc="268435534" symbol="checkLessThan10"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="37" pc="268435563" symbol="checkLessThan10"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="39" pc="268435570" symbol="checkLessThan10"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="43" pc="268435574" symbol="getDate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="44" pc="268435578" symbol="getDate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="45" pc="268435626" symbol="getDate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="46" pc="268435686" symbol="getDate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="49" pc="268435690" symbol="getHours"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="50" pc="268435694" symbol="getHours"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="51" pc="268435702" symbol="getHours"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="52" pc="268435752" symbol="getHours"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="53" pc="268435781" symbol="getHours"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="54" pc="268435810" symbol="getHours"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="57" pc="268435814" symbol="getMins"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="58" pc="268435818" symbol="getMins"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="59" pc="268435826" symbol="getMins"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="60" pc="268435890" symbol="getMins"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="61" pc="268435919" symbol="getMins"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="62" pc="268435948" symbol="getMins"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="66" pc="268435952" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="68" pc="268435956" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="70" pc="268435979" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="71" pc="268435992" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="73" pc="268436005" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="74" pc="268436022" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="76" pc="268436080" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="78" pc="268436109" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="79" pc="268436119" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="80" pc="268436129" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="81" pc="268436142" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="85" pc="268436155" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="86" pc="268436177" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="87" pc="268436193" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="90" pc="268436209" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="91" pc="268436231" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="93" pc="268436253" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="94" pc="268436281" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="96" pc="268436309" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="97" pc="268436361" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="99" pc="268436405" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="100" pc="268436437" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="102" pc="268436481" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="103" pc="268436513" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="105" pc="268436557" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="106" pc="268436589" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="108" pc="268436633" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="109" pc="268436665" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="111" pc="268436709" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="112" pc="268436741" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="114" pc="268436791" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="115" pc="268436823" symbol="onUpdate"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="124" pc="268436886" symbol="onHide"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="128" pc="268436891" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceView.mc" lineNum="132" pc="268436896" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceApp.mc" lineNum="5" pc="268436901" symbol="initialize"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceApp.mc" lineNum="6" pc="268436905" symbol="initialize"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceApp.mc" lineNum="10" pc="268436924" symbol="onStart"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceApp.mc" lineNum="14" pc="268436929" symbol="onStop"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceApp.mc" lineNum="18" pc="268436934" symbol="getInitialView"/>
-<entry filename="C:\\Users\\MIGUEL\\workspace\\CoolWatchface\\source\\CoolWatchfaceApp.mc" lineNum="19" pc="268436938" symbol="getInitialView"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="16" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="17" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="22" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="23" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="29" pc="268435521" symbol="onShow"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="33" pc="268435526" symbol="checkLessThan10"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="35" pc="268435530" symbol="checkLessThan10"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="36" pc="268435534" symbol="checkLessThan10"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="37" pc="268435563" symbol="checkLessThan10"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="39" pc="268435570" symbol="checkLessThan10"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="43" pc="268435574" symbol="getDate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="44" pc="268435578" symbol="getDate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="45" pc="268435626" symbol="getDate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="46" pc="268435686" symbol="getDate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="49" pc="268435690" symbol="getHours"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="50" pc="268435694" symbol="getHours"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="51" pc="268435702" symbol="getHours"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="52" pc="268435752" symbol="getHours"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="53" pc="268435781" symbol="getHours"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="54" pc="268435810" symbol="getHours"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="57" pc="268435814" symbol="getMins"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="58" pc="268435818" symbol="getMins"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="59" pc="268435826" symbol="getMins"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="60" pc="268435890" symbol="getMins"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="61" pc="268435919" symbol="getMins"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="62" pc="268435948" symbol="getMins"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="66" pc="268435952" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="68" pc="268435956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="70" pc="268435979" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="71" pc="268435992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="73" pc="268436005" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="74" pc="268436022" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="76" pc="268436080" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="78" pc="268436109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="79" pc="268436119" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="80" pc="268436129" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="81" pc="268436142" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="85" pc="268436155" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="86" pc="268436177" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="87" pc="268436193" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="90" pc="268436209" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="91" pc="268436231" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="93" pc="268436253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="94" pc="268436281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="96" pc="268436309" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="97" pc="268436361" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="99" pc="268436405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="100" pc="268436437" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="102" pc="268436481" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="103" pc="268436513" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="105" pc="268436557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="106" pc="268436589" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="108" pc="268436633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="109" pc="268436665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="111" pc="268436709" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="112" pc="268436741" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="114" pc="268436791" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="115" pc="268436823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="124" pc="268436886" symbol="onHide"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="128" pc="268436891" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceView.mc" lineNum="132" pc="268436896" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceApp.mc" lineNum="5" pc="268436901" symbol="initialize"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceApp.mc" lineNum="6" pc="268436905" symbol="initialize"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceApp.mc" lineNum="10" pc="268436924" symbol="onStart"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceApp.mc" lineNum="14" pc="268436929" symbol="onStop"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceApp.mc" lineNum="18" pc="268436934" symbol="getInitialView"/>
+<entry filename="C:\\Users\\MIGUEL\\workspace\\WhiteBlueWatchface\\source\\WhiteBlueWatchfaceApp.mc" lineNum="19" pc="268436938" symbol="getInitialView"/>
 <entry filename="Rez" lineNum="18" pc="268436976" symbol="WatchFace"/>
 <entry filename="Rez" lineNum="20" pc="268436980" symbol="WatchFace"/>
 <entry filename="Rez" lineNum="21" pc="268437143" symbol="WatchFace"/>
@@ -90,7 +90,7 @@
 <entry id="21" method="true" symbol="getMins"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry field="true" id="15" symbol="blue"/>
-<entry id="9" object="true" symbol="CoolWatchfaceApp"/>
+<entry id="9" object="true" symbol="WhiteBlueWatchfaceApp"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="13" symbol="AppName"/>
 <entry id="8389375" method="true" symbol="WatchFace"/>
@@ -105,7 +105,7 @@
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
-<entry id="8" object="true" symbol="CoolWatchfaceView"/>
+<entry id="8" object="true" symbol="WhiteBlueWatchfaceView"/>
 <entry id="11" module="true" symbol="Layouts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8389063" symbol="identifier"/>
@@ -140,54 +140,54 @@
 </localVars>
 <annotations/>
 <functions>
-<functionEntry name="initialize" parent="CoolWatchfaceView">
+<functionEntry name="initialize" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onLayout" parent="CoolWatchfaceView">
+<functionEntry name="onLayout" parent="WhiteBlueWatchfaceView">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onShow" parent="CoolWatchfaceView">
+<functionEntry name="onShow" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="checkLessThan10" parent="CoolWatchfaceView">
+<functionEntry name="checkLessThan10" parent="WhiteBlueWatchfaceView">
 <param id="unit"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="getDate" parent="CoolWatchfaceView">
+<functionEntry name="getDate" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="getHours" parent="CoolWatchfaceView">
+<functionEntry name="getHours" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="getMins" parent="CoolWatchfaceView">
+<functionEntry name="getMins" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onUpdate" parent="CoolWatchfaceView">
+<functionEntry name="onUpdate" parent="WhiteBlueWatchfaceView">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onHide" parent="CoolWatchfaceView">
+<functionEntry name="onHide" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onExitSleep" parent="CoolWatchfaceView">
+<functionEntry name="onExitSleep" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="onEnterSleep" parent="CoolWatchfaceView">
+<functionEntry name="onEnterSleep" parent="WhiteBlueWatchfaceView">
 <documentation/>
 </functionEntry>
-<functionEntry name="initialize" parent="CoolWatchfaceApp">
+<functionEntry name="initialize" parent="WhiteBlueWatchfaceApp">
 <documentation/>
 </functionEntry>
-<functionEntry name="onStart" parent="CoolWatchfaceApp">
+<functionEntry name="onStart" parent="WhiteBlueWatchfaceApp">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="onStop" parent="CoolWatchfaceApp">
+<functionEntry name="onStop" parent="WhiteBlueWatchfaceApp">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry name="getInitialView" parent="CoolWatchfaceApp">
+<functionEntry name="getInitialView" parent="WhiteBlueWatchfaceApp">
 <documentation/>
 </functionEntry>
 <functionEntry name="WatchFace" parent="Layouts">
